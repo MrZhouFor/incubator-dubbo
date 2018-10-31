@@ -90,6 +90,11 @@ public abstract class AbstractConfig implements Serializable {
         return value;
     }
 
+    /**
+     * 将配置对象的属性添加到参数集合
+     *
+     * @param config
+     */
     protected static void appendProperties(AbstractConfig config) {
         if (config == null) {
             return;
