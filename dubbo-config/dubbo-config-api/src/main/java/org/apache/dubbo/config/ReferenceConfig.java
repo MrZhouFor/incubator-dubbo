@@ -55,6 +55,7 @@ import static org.apache.dubbo.common.utils.NetUtils.isInvalidLocalHost;
 
 /**
  * ReferenceConfig
+ * 消费者配置
  *
  * @export
  */

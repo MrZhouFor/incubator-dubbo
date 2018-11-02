@@ -63,6 +63,7 @@ import static org.apache.dubbo.common.utils.NetUtils.isInvalidPort;
 
 /**
  * ServiceConfig
+ * 提供者配置
  *
  * @export
  */
